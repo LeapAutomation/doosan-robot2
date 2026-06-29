@@ -11,7 +11,6 @@
   <buildtool_depend>ament_cmake</buildtool_depend>
 
   <depend>rclcpp</depend>
-  <depend>example_interfaces</depend>
   <depend>std_msgs</depend>
   <depend>dsr_msgs2</depend>
   <depend>dsr_common2</depend>
